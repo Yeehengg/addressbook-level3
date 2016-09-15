@@ -63,18 +63,6 @@ Priority | As a ... | I want to ... | So that I can...
 4. AddressBook deletes the person <br>
 Use case ends.
 
-#### Use case: Rename tag
- 
- **MSS**
- 
- 1. User requests to list tags
- 2. AddressBook shows a list of tags
- 3. User requests to edit a specific tag in the list
- 4. AddressBook asks to confirms the request
- 5. User confirms the request
- 6. AddressBook edits the tag <etk>
- Use case ends.
-
 **Extensions**
 
 2a. The list is empty
@@ -85,8 +73,6 @@ Use case ends.
 
 > 3a1. AddressBook shows an error message <br>
   Use case resumes at step 2
-  
- 
 
 ## Appendix C : Non Functional Requirements
 
