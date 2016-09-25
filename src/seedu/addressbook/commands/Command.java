@@ -66,4 +66,9 @@ public abstract class Command {
     public void setTargetIndex(int targetIndex) {
         this.targetIndex = targetIndex;
     }
+
+	public boolean isMutating() {
+		// TODO Auto-generated method stub
+		return false;
+	}
 }
